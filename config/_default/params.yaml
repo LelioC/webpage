@@ -12,13 +12,12 @@ appearance:
   font_size: L
 
 # SEO
-
 marketing:
   seo:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
+    description: 'Academic webpage of Dr. Lélio CHETOT.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -30,7 +29,6 @@ marketing:
     baidu: ''
 
 # Site header
-
 header:
   navbar:
     enable: true
@@ -42,7 +40,6 @@ header:
     highlight_active_link: true
 
 # Site footer
-
 footer:
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
@@ -53,7 +50,6 @@ footer:
       allow_commercial: false
 
 # Localization
-
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
@@ -66,7 +62,7 @@ features:
     theme_light: github-light
     theme_dark: dracula
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
@@ -101,7 +97,6 @@ features:
     zoom: 15
 
 # Extensions
-
 extensions:
   cms:
     branch: main
@@ -110,7 +105,6 @@ extensions:
     enable: true
 
 # Security
-
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
