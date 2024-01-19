@@ -54,21 +54,11 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
+      # - name: Python
+      #   description: ''
+      #   percent: 80
+      #   icon: python
+      #   icon_pack: fab
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -90,9 +80,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
