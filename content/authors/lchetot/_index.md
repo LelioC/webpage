@@ -22,7 +22,7 @@ role: Assistant Professor, PhD.
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Maracas Team @ INRIA
-    url: https://www.inria.fr/en
+    url: https://team.inria.fr/maracas/
   - name: CITI Lab. @ INSA Lyon
     url: https://www.citi-lab.fr/
 
@@ -98,5 +98,5 @@ social:
 highlight_name: true
 ---
 
-I am currently an Assistant Professor at the National Institute of Applied Sciences of Lyon, member of the INRIA team Maracas hosted at CITI lab.
+I am currently an Assistant Professor at INSA Lyon, member of the INRIA team Maracas hosted at CITI lab. in Villeurbanne, France.
 {style="text-align: justify;"}

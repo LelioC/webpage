@@ -42,7 +42,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Lélio Chetot. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -56,7 +56,6 @@ locale:
   address_format: en-us
 
 # Site features
-
 features:
   syntax_highlighter:
     theme_light: github-light
@@ -66,12 +65,12 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/LelioC/webpage'
     content_dir: content
     branch: main
   avatar:
     gravatar: false
-    shape: circle
+    shape: rectangle
   comment:
     provider: ''
     disqus:

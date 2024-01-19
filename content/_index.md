@@ -24,88 +24,34 @@ sections:
       items:
         - title: Assistant Professor
           company: Maracas Team @ INRIA / CITI Lab. @ INSA Lyon
-          company_url: ''
-          company_logo: 
+          company_url: 'https://team.inria.fr/maracas/'
+          company_logo: insa_couleur
           location: Villeurbanne (France)
           date_start: '2022-09-01'
           date_end: '2024-08-31'
         - title: PhD Candidate
           company: Maracas Team @ INRIA / CITI Lab. @ INSA Lyon
-          company_url: ''
-          company_logo: 
+          company_url: 'https://team.inria.fr/maracas/'
+          company_logo: inr_logo_rouge
           location: Villeurbanne (France)
           date_start: '2018-10-01'
           date_end: '2022-07-07'
         - title: Research Intern
           company: Maracas Team @ INRIA / CITI Lab. @ INSA Lyon
-          company_url: ''
-          company_logo: 
+          company_url: 'https://www.citi-lab.fr/'
+          company_logo: citi_color
           location: Villeurbanne (France)
           date_start: '2018-02-01'
           date_end: '2018-08-01'
         - title: Research Intern
-          company: Thales
-          company_url: ''
-          company_logo: 
+          company: Thales SIX GTS
+          company_url: 'https://www.thalesgroup.com/en'
+          company_logo: thales
           location: Gennevilliers (France)
           date_start: '2017-04-01'
           date_end: '2017-07-01'
     design:
-      columns: '2'
-
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
-
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+        columns: '1'
 
   - block: contact
     id: contact
