@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2023-06-01'
-lastmod: 2024-01-19T17:08:09+01:00
+lastmod: 2024-01-19T17:31:22+01:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-19T16:08:09.605551Z'
+publishDate: '2024-01-19T16:31:22.022863Z'
 publication_types:
 - '1'
 abstract: In grant-free random access, a key question is how devices should utilize

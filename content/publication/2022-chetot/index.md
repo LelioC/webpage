@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2022-07-01'
-lastmod: 2024-01-19T17:08:09+01:00
+lastmod: 2024-01-19T17:31:21+01:00
 featured: false
 draft: false
 
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-19T16:08:09.054699Z'
+publishDate: '2024-01-19T16:31:21.409595Z'
 publication_types:
 - '7'
 abstract: The new 5G’s wireless networks have started to be deployed all around the

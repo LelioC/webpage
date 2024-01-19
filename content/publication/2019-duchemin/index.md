@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2019-07-01'
-lastmod: 2024-01-19T17:08:08+01:00
+lastmod: 2024-01-19T17:31:20+01:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-19T16:08:07.937723Z'
+publishDate: '2024-01-19T16:31:20.151060Z'
 publication_types:
 - '1'
 abstract: This paper focuses on random uplink transmissions of a subset of nodes disseminated

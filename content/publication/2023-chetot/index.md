@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2023-06-01'
-lastmod: 2024-01-19T17:08:09+01:00
+lastmod: 2024-01-19T17:31:22+01:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-19T16:08:09.324555Z'
+publishDate: '2024-01-19T16:31:21.725852Z'
 publication_types:
 - '1'
 abstract: Industrial IoT (IIoT) is one of the major verticals targeted by the next

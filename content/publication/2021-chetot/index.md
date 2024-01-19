@@ -28,7 +28,7 @@ tags:
 - Temperature sensors
 categories: []
 date: '2021-01-01'
-lastmod: 2024-01-19T17:08:09+01:00
+lastmod: 2024-01-19T17:31:21+01:00
 featured: false
 draft: false
 
@@ -46,7 +46,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-19T16:08:08.728224Z'
+publishDate: '2024-01-19T16:31:21.027094Z'
 publication_types:
 - '2'
 abstract: As industrial plants increase the number of wirelessly connected sensors
