@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Lélio # Website name
-baseURL: 'https://lelioc.github.com/' # Website URL
+baseURL: 'https://lelioc.github.com/webpage' # Website URL
 
 ############################
 ## LANGUAGE
