@@ -42,11 +42,11 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Lélio Chetot. This work is licensed under {license}'
+    notice: '© {year} Lélio Chetot. All Rights Reserved.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
