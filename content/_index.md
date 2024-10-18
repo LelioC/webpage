@@ -67,18 +67,18 @@ sections:
       subtitle:
       text:
       # Contact (add or remove contact options as necessary)
-      email: lelio.chetot@insa-lyon.fr
+      email: lelio.chetot@cea.fr
       address:
-        street: 6 Avenue des Arts
-        city: Villeurbanne
+        street: 17 Avenue des Martyrs
+        city: Grenoble
         region:
-        postcode: '69100'
+        postcode: '38000'
         country: France
         country_code: FR
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '45.7835492663557'
-        longitude: '4.87280741461803'
+        latitude: '45.2009401'
+        longitude: '5.705427'
       # Automatically link email and phone or display as text?
       autolink: true
     design:
