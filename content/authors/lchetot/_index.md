@@ -21,10 +21,8 @@ role: Assistant Professor, PhD.
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Maracas Team @ INRIA
-    url: https://team.inria.fr/maracas/
-  - name: CITI Lab. @ INSA Lyon
-    url: https://www.citi-lab.fr/
+  - name: LS2PR @ CEA Leti
+    url: https://www.leti-cea.com/cea-tech/leti/english
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include statistical signal processing for communications.
@@ -35,6 +33,7 @@ interests:
   - Statistical Signal Processing
   - Bayesian Inference
   - Message-Passing Algorithms
+  - Reconfigurable Intelligent Surfaces
 
 # Education to show in About widget
 education:
@@ -88,5 +87,5 @@ social:
 highlight_name: true
 ---
 
-I am currently an Assistant Professor at INSA Lyon, member of the INRIA team Maracas hosted at CITI lab. in Villeurbanne, France.
+I am currently a Postdoctoral Fellow at CEA Leti, member of the Laboratory "Signal, Protocol and Radio Platforms" (LS2PR) hosted in Grenoble, France.
 {style="text-align: justify;"}
