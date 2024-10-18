@@ -32,14 +32,14 @@ sections:
         - title: Assistant Professor
           company: Maracas Team @ INRIA / CITI Lab. @ INSA Lyon
           company_url: 'https://team.inria.fr/maracas/'
-          company_logo: insa_couleur
+          company_logo: insa_color
           location: Villeurbanne (France)
           date_start: '2022-09-01'
           date_end: '2024-08-31'
         - title: PhD Candidate
           company: Maracas Team @ INRIA / CITI Lab. @ INSA Lyon
           company_url: 'https://team.inria.fr/maracas/'
-          company_logo: inr_logo_rouge
+          company_logo: inria_red
           location: Villeurbanne (France)
           date_start: '2018-10-01'
           date_end: '2022-07-07'
