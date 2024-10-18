@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor, PhD.
+role: Postdoctoral Fellow, PhD.
 
 # Organizations/Affiliations to show in About widget
 organizations:
