@@ -28,7 +28,7 @@ sections:
           company_logo: cea_red
           location: Grenoble (France)
           date_start: '2024-10-04'
-          date_end: '2026'
+          date_end: '2026-10-03'
         - title: Assistant Professor
           company: Maracas Team @ INRIA / CITI Lab. @ INSA Lyon
           company_url: 'https://team.inria.fr/maracas/'
