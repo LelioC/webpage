@@ -22,6 +22,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Associate Professor
+          company: ENSEEIHT @ INP Toulouse
+          company_url: 'https://www.enseeiht.fr/en/index.html'
+          company_logo: logo_n7_original
+          location: Toulouse (France)
+          date_start: '2026-10-04'
+          date_end: ''
         - title: Postdoctoral Fellow
           company: LS2PR @ CEA Leti
           company_url: 'https://www.leti-cea.com/cea-tech/leti/english'
