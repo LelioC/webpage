@@ -21,7 +21,7 @@ role: Associate Professor, PhD.
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Toulouse INP - ENSEEIHT
+  - name: ENSEEIHT
     url: https://www.enseeiht.fr/en/index.html
   - name: IRIT
     url: https://www.irit.fr/en/home/
