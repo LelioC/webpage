@@ -23,9 +23,9 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Associate Professor
-          company: ENSEEIHT @ INP Toulouse
+          company: ENSEEIHT @ INP Toulouse / IRIT @ CNRS
           company_url: 'https://www.enseeiht.fr/en/index.html'
-          company_logo: logo_n7_original
+          company_logo: logo_irit_n7
           location: Toulouse (France)
           date_start: '2026-10-04'
           date_end: ''
