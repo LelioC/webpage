@@ -3,7 +3,7 @@
 title: Lélio CHETOT
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: le.ljo ʃə.to
 
 # Full name (for SEO)
 first_name: Lélio
@@ -11,21 +11,23 @@ last_name: Chetot
 
 # Status emoji
 status:
-  icon: 😀
+  icon: 🎓
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Fellow, PhD.
+role: Associate Professor, PhD.
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: LS2PR @ CEA Leti
-    url: https://www.leti-cea.com/cea-tech/leti/english
+  - name: Toulouse INP - ENSEEIHT
+    url: https://www.enseeiht.fr/en/index.html
+  - name: IRIT
+    url: https://www.irit.fr/en/home/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include statistical signal processing for communications.
+bio: I am an Associate Professor at ENSEEIHT, an engineering school part of Toulouse INP. I am also a member of the "Signal & Communication" team, hosted by the IRIT laboratory. My research interests include statistical signal processing for communications.
 
 # Interests to show in About widget
 interests:
@@ -87,5 +89,5 @@ social:
 highlight_name: true
 ---
 
-I am currently a Postdoctoral Fellow at CEA Leti, member of the Laboratory "Signal, Protocol and Radio Platforms" (LS2PR) hosted in Grenoble, France.
+I am an Associate Professor at Toulouse INP - ENSEEIHT and a member of the "Signal and Communication" team of the IRIT laboratory.
 {style="text-align: justify;"}
