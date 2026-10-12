@@ -74,18 +74,18 @@ sections:
       subtitle:
       text:
       # Contact (add or remove contact options as necessary)
-      email: lelio.chetot@cea.fr
+      # email: lelio.chetot@toulouse-inp.fr
       address:
-        street: 17 Avenue des Martyrs
-        city: Grenoble
+        street: 2 rue Charles Camichel
+        city: Toulouse
         region:
-        postcode: '38000'
+        postcode: '31000'
         country: France
         country_code: FR
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '45.2009401'
-        longitude: '5.705427'
+        latitude: '43.6021194'
+        longitude: '1.455808'
       # Automatically link email and phone or display as text?
       autolink: true
     design:
